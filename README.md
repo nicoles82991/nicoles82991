@@ -1,5 +1,5 @@
 ## Hi there 👋
-Im a budding Frontend Web Developer :)
+Im a budding Frontend Web Developer :) I have a background as a Freelance Graphic Designer for 15~ years, transitioning into Web Development in the year 2024! Ive dabbled in HTML and CSS for many years and the more I play with it, the more I love it <3
 - 🌱 I’m currently learning Javascript!
 - ⚡ Fun fact: Alot of my personal practice projects have a reference to my cat Minerva
 <!--
