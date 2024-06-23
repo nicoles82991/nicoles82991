@@ -1,6 +1,7 @@
 ## Hi there 👋
 Im a budding Frontend Web Developer :)
 - 🌱 I’m currently learning Javascript!
+- ⚡ Fun fact: Alot of my personal practice projects have a reference to my cat Minerva
 <!--
 **nicoles82991/nicoles82991** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
