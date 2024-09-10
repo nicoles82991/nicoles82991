@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-I'm a budding Frontend Web Developer with a background as a Freelance Graphic Designer for approximately 15 years. In 2024, I transitioned into Web Development. I've dabbled in HTML and CSS for many years. Now that Im learning Javascript, its opened up a whole new world with design! The more I work with code, the more I love it. ❤️
-- 🌱 I’m currently learning Javascript!
+I'm a Frontend Web Developer with a background as a Freelance Graphic Designer for approximately 15 years. In 2024, I transitioned into Web Development and been loving every minute of it.
 - ⚡ Fun fact: Many of my personal practice projects reference my cat, Minerva. 😻
 <!--
 **nicoles82991/nicoles82991** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
