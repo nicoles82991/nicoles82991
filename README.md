@@ -1,7 +1,5 @@
 ## Hi there 👋
-
-I'm a Frontend Web Developer with a background as a Freelance Graphic Designer for approximately 15 years. In 2024, I transitioned into Web Development and been loving every minute of it.
-- ⚡ Fun fact: Many of my personal practice projects reference my cat, Minerva. 😻
+I do this as a hobby :)
 <!--
 **nicoles82991/nicoles82991** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
